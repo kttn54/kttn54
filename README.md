@@ -8,7 +8,7 @@
   - [MovieBase](https://github.com/kttn54/MovieBase)
   - [CanStudy](https://github.com/kttn54/CanStudy)
 - <b>Backend App using Go</b>
-  - [Hotel Booking App](https://github.com/kttn54/Hotel-Booking-App)
+  - [Hotel Booking App - in progress](https://github.com/kttn54/Hotel-Booking-App)
 
 <h2> 🤳 Connect with me:</h2>
 

@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kevin!</h1>
 
-<h2>[My portfolio](https://kttn54.github.io/)</h2>
+[My Portfolio](https://kttn54.github.io/)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

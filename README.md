@@ -20,4 +20,4 @@
 
 [twitter]: https://twitter.com/kttn54
 [youtube]: https://www.youtube.com/channel/UCdOx4vloly8f7mbSwSxNRIw
-[linkedin]: https://linkedin.com/in/kttn54
+[linkedin]: https://linkedin.com/in/kevinttnguyen
